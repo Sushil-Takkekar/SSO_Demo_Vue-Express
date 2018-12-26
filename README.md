@@ -7,6 +7,10 @@ Sample SSO project in Vue.js/Express.js
 # install old vue-cli
 $ npm install -g @vue/cli-init
 
+# other dependencies
+$ npm install --save nodemon eslint
+$ npm install --save express body-parser
+
 # create new project
 $ vue init webpack client
 ```
